@@ -1,2 +1,1 @@
-# My-cs231n-assignment-solutions
-Just for storing personal solutions of cs231n assignments. / Will keep updating. / Code might be unfinished or full of bugs. 
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2017.
